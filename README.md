@@ -1,2 +1,2 @@
 # Fundamentals
-Fundamentals from Phase 2
+Repository fundamentals from Phase 2
